@@ -1,13 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Works\\OrderProject\\Order-Company\\Adalio\\",
+  "WorkspaceRootPath": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|d:\\works\\orderproject\\order-company\\adalio\\adalio.domain\\adalio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio.domain\\models\\enums\\ordersenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\enums\\ordersenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio.domain\\models\\enums\\importersenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\enums\\importersenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio.domain\\models\\importer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\importer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio.domain\\adalio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\adalio.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5733790-E973-45EC-8F74-3CB7E2F49C9A}|Adalio\\Adalio\\Adalio.csproj|d:\\works\\orderproject\\order-company\\adalio\\adalio\\adalio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5733790-E973-45EC-8F74-3CB7E2F49C9A}|Adalio\\Adalio\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\order-company\\order-company\\adalio\\adalio\\adalio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5733790-E973-45EC-8F74-3CB7E2F49C9A}|Adalio\\Adalio\\Adalio.csproj|solutionrelative:adalio\\adalio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,33 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersEnums.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Enums\\OrdersEnums.cs",
+              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Enums\\OrdersEnums.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Enums\\OrdersEnums.cs",
+              "RelativeToolTip": "Adalio.Domain\\Models\\Enums\\OrdersEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:04:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportersEnums.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Enums\\ImportersEnums.cs",
+              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Enums\\ImportersEnums.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Enums\\ImportersEnums.cs",
+              "RelativeToolTip": "Adalio.Domain\\Models\\Enums\\ImportersEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:02:04.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Importer.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Importer.cs",
+              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Importer.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Importer.cs",
+              "RelativeToolTip": "Adalio.Domain\\Models\\Importer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:54:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Adalio.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:51:38.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Adalio.Domain",
-              "DocumentMoniker": "D:\\Works\\OrderProject\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "Adalio.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T10:30:31.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adalio.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
               "RelativeDocumentMoniker": "Adalio.Domain\\Adalio.Domain.csproj",
-              "ToolTip": "D:\\Works\\OrderProject\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
               "RelativeToolTip": "Adalio.Domain\\Adalio.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-08T10:05:42.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject\\Order-Company\\Adalio\\Adalio\\Adalio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio\\Adalio\\Program.cs",
               "RelativeDocumentMoniker": "Adalio\\Adalio\\Program.cs",
-              "ToolTip": "D:\\Works\\OrderProject\\Order-Company\\Adalio\\Adalio\\Adalio\\Program.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\Order-Company\\Order-Company\\Adalio\\Adalio\\Adalio\\Program.cs",
               "RelativeToolTip": "Adalio\\Adalio\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T10:04:25.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T10:04:25.09Z"
             }
           ]
         }

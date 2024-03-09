@@ -1,4 +1,5 @@
 ﻿using Adalio.Domain.Models.Enums;
+using Adalio.Domain.Models.Enums.Order;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,15 +8,17 @@ using System.Threading.Tasks;
 
 namespace Adalio.Domain.Models
 {
-    internal class Order
+    public class Order
     {
+        //[primary]
         Guid Id { get; set; }
         public string Name { get; set; }
-        public DateTime creatingDate { get; set; }
-        public orderStatus Status { get; set; }
+        public DateTime CreatingDate { get; set; }
+        public OrderStatus Status { get; set; }
         public int Priority { get; set; }
-
-        public List<Product> products;
+        public ShippingMethod ShippingMethod { get; set; }
+        public List<Tag>? Tags { get; set; }
+        public List<Product>? Products { get; set; }
         
     }
 }

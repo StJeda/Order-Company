@@ -6,11 +6,19 @@ using System.Threading.Tasks;
 
 namespace Adalio.Domain.Models
 {
-    internal class Importer
+    public class Importer()
     {
         Guid Id { get; set; }
-        public string Name { get; set; }
-        public string Adress {  get; set; }
+        public required string Name { get; set; }
+        public required string LastName { get; set; }
+        public required string Adress {  get; set; }
+        public required string Email { get; set; }
+        public required string Phone { get; set; }
 
+        public double[] Marks { get; set; }
+        public Account? workAccount { get; set; }
+
+        public double GetAverage()
+            => Marks.Average(); 
     }
 }

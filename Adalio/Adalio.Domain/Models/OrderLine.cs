@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace Adalio.Domain.Models
 {
-    public class Product
+    public class OrderLine
     {
         public Guid Id { get; set; }
-        public required string Name { get; set; }
-        public required decimal Price { get; set; }
-        public string Description { get; set; } = null!;
-
+        public List<Order> Orders { get; set; }
+        public int Priority {  get; set; }
     }
 }

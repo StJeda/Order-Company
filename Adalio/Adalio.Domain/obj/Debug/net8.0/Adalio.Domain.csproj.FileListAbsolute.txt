@@ -1,0 +1,12 @@
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\bin\Debug\net8.0\Adalio.Domain.deps.json
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\bin\Debug\net8.0\Adalio.Domain.dll
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\bin\Debug\net8.0\Adalio.Domain.pdb
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.AssemblyInfoInputs.cache
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.AssemblyInfo.cs
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.csproj.CoreCompileInputs.cache
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.sourcelink.json
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.dll
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\refint\Adalio.Domain.dll
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.pdb
+D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\ref\Adalio.Domain.dll

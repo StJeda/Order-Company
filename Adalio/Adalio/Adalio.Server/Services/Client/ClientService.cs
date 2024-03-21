@@ -18,7 +18,7 @@
             }
         }
 
-        public async Task<bool> DeleteClient(int id)
+        public async Task<bool> DeleteClient(Guid id)
         {
             try
             {
@@ -37,7 +37,7 @@
         public async Task<List<Client>?> GetAllClients()
             => await dbContext.GetAllClientsAsync();
 
-        public async Task<Client?> GetSingleClient(int id)
+        public async Task<Client?> GetSingleClient(Guid id)
         {
             try
             {

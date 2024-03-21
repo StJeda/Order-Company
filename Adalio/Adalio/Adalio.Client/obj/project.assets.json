@@ -1877,19 +1877,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yyarm\\.nuget\\packages\\": {}
+    "C:\\Users\\ruslan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
+      "projectUniqueName": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
       "projectName": "Adalio.Client",
-      "projectPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
-      "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-      "outputPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\obj\\",
+      "projectPath": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
+      "packagesPath": "C:\\Users\\ruslan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ruslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

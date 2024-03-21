@@ -1,12 +1,12 @@
 {
   "mainAssemblyName": "Adalio.Client",
   "resources": {
-    "hash": "sha256-mmEwwpYseDtI8VLVv0iSoMwk2cGJsAvo7ijEm/9HKYc=",
+    "hash": "sha256-wtpRA+8XdAEeDPkW8swVW4PgBilpcqDBzyks4y2XYiY=",
     "jsModuleNative": {
-      "dotnet.native.8.0.2.wvcq3l1mrt.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
+      "dotnet.native.8.0.2.lykk629pvj.js": "sha256-gPMK16QWoJSTxorlZJqcVtbBRTniIQWlLsJN2O4cJHg="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.2.91uxl1znpz.js": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0="
+      "dotnet.runtime.8.0.2.jimk4bquoo.js": "sha256-54KSaoOArNfygQbV+r4B5y3ys53v2tnvFIyZcZiUmi0="
     },
     "wasmNative": {
       "dotnet.native.wasm": "sha256-C2P+OTYZAJlmqo6rc4heqwvIVVsXIF8MAxC6WRe96Eg="
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-OH3kXneWqQMz6CUSo6POZqIeMqn9+5RR+IgHn5TnIwA=",
       "netstandard.wasm": "sha256-ZOswxXEbR2TmqjpbaBEdgr85Bv1NC4GwOwoJ+oxXM3M=",
       "System.Private.CoreLib.wasm": "sha256-I2w0iHf5nvSQyF1YE1VbgdTzmmz6a4OE6J7vo5wFa/4=",
-      "Adalio.Client.wasm": "sha256-H9yv/8PlbtRACCmLdD5Qd2Ns8GMWo9OcjyQ8TMhfn38="
+      "Adalio.Client.wasm": "sha256-tT83KpfmucHPCml8c084EOLBANtWgdtC4Mrn5s+FHvo="
     },
     "pdb": {
-      "Adalio.Client.pdb": "sha256-bm7Rh8bC8KjWtRlxNFOe+E1nMjXDH0QJIznl+Ag8onY="
+      "Adalio.Client.pdb": "sha256-Lm+o0yuTZ0YxY1kLDClMaHpnkng67y5CyooVQgmaMk0="
     }
   },
   "cacheBootResources": true,

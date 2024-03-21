@@ -10,3 +10,15 @@ D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adali
 D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\refint\Adalio.Domain.dll
 D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.pdb
 D:\Works\OrderProject1\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\ref\Adalio.Domain.dll
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\bin\Debug\net8.0\Adalio.Domain.deps.json
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\bin\Debug\net8.0\Adalio.Domain.dll
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\bin\Debug\net8.0\Adalio.Domain.pdb
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.AssemblyInfoInputs.cache
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.AssemblyInfo.cs
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.sourcelink.json
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.dll
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\refint\Adalio.Domain.dll
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\Adalio.Domain.pdb
+C:\Users\ruslan\source\works\OrderCompany\Order-Company\Adalio\Adalio.Domain\obj\Debug\net8.0\ref\Adalio.Domain.dll

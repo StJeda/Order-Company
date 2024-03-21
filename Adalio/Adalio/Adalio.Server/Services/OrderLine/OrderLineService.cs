@@ -19,7 +19,7 @@
         }
 
 
-        public async Task<bool> DeleteOrderLine(int id)
+        public async Task<bool> DeleteOrderLine(Guid id)
         {
             try
             {
@@ -38,7 +38,7 @@
         public async Task<List<OrderLine>?> GetAllOrderLines()
             => await dbContext.GetAllOrderLinesAsync();
 
-        public async Task<OrderLine?> GetSingleOrderLine(int id)
+        public async Task<OrderLine?> GetSingleOrderLine(Guid id)
         {
             try
             {

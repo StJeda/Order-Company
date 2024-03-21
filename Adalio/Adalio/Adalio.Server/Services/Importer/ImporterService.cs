@@ -59,7 +59,7 @@
         {
             try
             {
-                var selImporter = await dbContext.GetImporterByIdAsync(updateImporter.id);
+                var selImporter = await dbContext.GetImporterByIdAsync(updateImporter.Id);
                 if (selImporter is null)
                     throw new ArgumentNullException();
                 await dbContext.UpdateImporterAsync(selImporter);

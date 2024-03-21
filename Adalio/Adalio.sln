@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adalio", "Adalio\Adalio\Adalio.csproj", "{F5733790-E973-45EC-8F74-3CB7E2F49C9A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adalio.Client", "Adalio\Adalio.Client\Adalio.Client.csproj", "{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adalio.Domain", "Adalio.Domain\Adalio.Domain.csproj", "{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adalio", "Adalio\Adalio.Server\Adalio.csproj", "{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F5733790-E973-45EC-8F74-3CB7E2F49C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5733790-E973-45EC-8F74-3CB7E2F49C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5733790-E973-45EC-8F74-3CB7E2F49C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5733790-E973-45EC-8F74-3CB7E2F49C9A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

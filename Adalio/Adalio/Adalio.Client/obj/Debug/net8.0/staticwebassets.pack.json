@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\obj\\Debug\\net8.0\\compressed\\vyhhadzomq.gz",
+      "Id": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\obj\\Debug\\net8.0\\compressed\\5y4fp4ts2i.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {

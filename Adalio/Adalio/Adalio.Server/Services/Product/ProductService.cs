@@ -18,7 +18,7 @@
             }
         }
 
-        public async Task<bool> DeleteProduct(int id)
+        public async Task<bool> DeleteProduct(Guid id)
         {
             try
             {
@@ -37,7 +37,7 @@
         public async Task<List<Product>?> GetAllProducts()
             => await dbContext.GetAllProductsAsync();
 
-        public async Task<Product?> GetSingleProduct(int id)
+        public async Task<Product?> GetSingleProduct(Guid id)
         {
             try
             {

@@ -8,6 +8,7 @@ namespace Adalio.Domain.Models.Enums.Order
 {
     public enum OrderStatus
     {
+        New,
         Pending,
         Processing,
         Shipped,

@@ -1,90 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\",
+  "WorkspaceRootPath": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\importer\\importerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\importer\\importerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\ordercompany\\order-company\\adalio\\adalio\\adalio.server\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\importer\\iimporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\importer\\iimporterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\ordercompany\\order-company\\adalio\\adalio\\adalio.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\controllers\\importercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\importercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\controllers\\orderlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\ordercompany\\order-company\\adalio\\adalio\\adalio.server\\controllers\\orderlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\orderlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\ordercompany\\order-company\\adalio\\adalio\\adalio.server\\controllers\\importercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\importercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio.domain\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\ordercompany\\order-company\\adalio\\adalio\\adalio.server\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}|Adalio\\Adalio.Client\\Adalio.Client.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}|Adalio\\Adalio.Client\\Adalio.Client.csproj|solutionrelative:adalio\\adalio.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}|Adalio\\Adalio.Client\\Adalio.Client.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{671B5EAA-6C9B-424F-9F02-E1946A77EB7C}|Adalio\\Adalio.Client\\Adalio.Client.csproj|solutionrelative:adalio\\adalio.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\exceptions\\notphoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\exceptions\\notphoneexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\account\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\exceptions\\notnewexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\exceptions\\notnewexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\exceptions\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\exceptions\\userexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio.domain\\models\\enums\\order\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{112AC7F3-BE1A-4858-B1EB-3324E317A9B1}|Adalio.Domain\\Adalio.Domain.csproj|solutionrelative:adalio.domain\\models\\enums\\order\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\department\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\client\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\client\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|d:\\works\\orderproject1\\order-company\\adalio\\adalio\\adalio.server\\services\\account\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\services\\account\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|c:\\users\\ruslan\\source\\works\\ordercompany\\order-company\\adalio\\adalio\\adalio.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D3B03B3-4D55-4FB5-BEF4-574A342A6933}|Adalio\\Adalio.Server\\Adalio.csproj|solutionrelative:adalio\\adalio.server\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,267 +34,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T17:22:37.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IImporterService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Importer\\IImporterService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Importer\\IImporterService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Importer\\IImporterService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Importer\\IImporterService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T17:20:17.651Z",
+              "WhenOpened": "2024-03-22T19:35:41.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ImporterService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Importer\\ImporterService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Importer\\ImporterService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Importer\\ImporterService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Importer\\ImporterService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "OrderLineController.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
+              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
+              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T17:19:28.214Z",
+              "WhenOpened": "2024-03-22T19:35:36.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ImporterController.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ImporterController.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ImporterController.cs",
               "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\ImporterController.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ImporterController.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ImporterController.cs",
               "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\ImporterController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T17:11:29.235Z",
+              "WhenOpened": "2024-03-22T18:55:38.281Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Client.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Client.cs",
-              "RelativeToolTip": "Adalio.Domain\\Models\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T16:56:25.419Z",
+              "WhenOpened": "2024-03-22T19:25:06.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\ClientController.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\ClientController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAABFAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T16:53:29.649Z",
+              "WhenOpened": "2024-03-22T19:13:45.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderLineController.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\OrderLineController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ruslan\\source\\works\\OrderCompany\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Adalio\\Adalio.Server\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T21:07:22.694Z",
+              "WhenOpened": "2024-03-22T18:58:19.908Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Client\\Pages\\Counter.razor",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Pages\\Counter.razor",
-              "RelativeToolTip": "Adalio\\Adalio.Client\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T21:11:28.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Client\\_Imports.razor",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\_Imports.razor",
-              "RelativeToolTip": "Adalio\\Adalio.Client\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T21:11:21.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Program.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Program.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Program.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T21:11:13.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Product\\ProductService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Product\\ProductService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Product\\ProductService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Product\\ProductService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwBQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T21:06:09.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Account.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Account.cs",
-              "RelativeToolTip": "Adalio.Domain\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:41:35.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NotPhoneException.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Exceptions\\NotPhoneException.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Exceptions\\NotPhoneException.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Exceptions\\NotPhoneException.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Exceptions\\NotPhoneException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:37:45.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Enums\\Order\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "Adalio.Domain\\Models\\Enums\\Order\\OrderStatus.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Models\\Enums\\Order\\OrderStatus.cs",
-              "RelativeToolTip": "Adalio.Domain\\Models\\Enums\\Order\\OrderStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:32:47.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NotNewException.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Exceptions\\NotNewException.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Exceptions\\NotNewException.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Exceptions\\NotNewException.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Exceptions\\NotNewException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:30:39.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserException.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Exceptions\\UserException.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Exceptions\\UserException.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Exceptions\\UserException.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Exceptions\\UserException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:26:27.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Order\\OrderService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Order\\OrderService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Order\\OrderService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Order\\OrderService.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAIwD8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:24:50.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Department\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Department\\DepartmentService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Department\\DepartmentService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Department\\DepartmentService.cs",
-              "ViewState": "AQIAAB8AAACAMzMzM7MQwA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:24:14.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Client\\ClientService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Client\\ClientService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Client\\ClientService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Client\\ClientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:24:12.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Account\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Account\\IAccountService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Account\\IAccountService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Account\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:21:54.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Account\\AccountService.cs",
-              "RelativeDocumentMoniker": "Adalio\\Adalio.Server\\Services\\Account\\AccountService.cs",
-              "ToolTip": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Server\\Services\\Account\\AccountService.cs",
-              "RelativeToolTip": "Adalio\\Adalio.Server\\Services\\Account\\AccountService.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:21:52.122Z"
             }
           ]
         }

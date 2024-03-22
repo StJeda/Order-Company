@@ -21,11 +21,11 @@
             }
         }
 
-        public async Task<bool> DeleteImporter(int id)
+        public async Task<bool> DeleteImporter(Guid guid)
         {
             try
             {
-                var selImporter = await dbContext.GetImporterByIdAsync(id);
+                var selImporter = await dbContext.GetImporterByIdAsync(guid);
                 if (selImporter is null)
                     throw new ArgumentNullException();
                 await dbContext.DeleteImporterAsync(selImporter);
@@ -40,11 +40,11 @@
         public async Task<List<Importer>?> GetAllImporters()
             => await dbContext.GetAllImportersAsync();
 
-        public async Task<Importer?> GetSingleImporter(int id)
+        public async Task<Importer?> GetSingleImporter(Guid guid)
         {
             try
             {
-                var selImporter = await dbContext.GetImporterByIdAsync(id);
+                var selImporter = await dbContext.GetImporterByIdAsync(guid);
                 if (selImporter is null)
                     throw new ArgumentNullException();
                 return Task.FromResult(selImporter);

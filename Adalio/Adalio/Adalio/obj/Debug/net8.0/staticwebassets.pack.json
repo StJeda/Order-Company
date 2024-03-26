@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Adalio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Adalio.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Adalio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Adalio.props",
+      "PackagePath": "build\\Adalio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Adalio.props",
+      "PackagePath": "buildMultiTargeting\\Adalio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Adalio.props",
+      "PackagePath": "buildTransitive\\Adalio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

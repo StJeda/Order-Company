@@ -8,7 +8,7 @@ namespace Adalio.Domain.Models
 {
     public class Importer()
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public required string Name { get; set; }
         public required string LastName { get; set; }
         public required string Adress {  get; set; }

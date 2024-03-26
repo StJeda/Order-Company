@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adalio.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa6a046df18f09e801ae76f8ab0c5fb60193cb3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adalio.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adalio.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

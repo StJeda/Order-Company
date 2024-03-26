@@ -12,7 +12,8 @@ namespace Adalio.Domain.Models
         {
             GetCount();
         }
-        public Guid Id { get; set; }
+        
+        public int Id { get; set; }
         public required string Name { get; set; }
         public required string Adress {  get; set; }
         public required int EmployeesNum;

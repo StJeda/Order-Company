@@ -9,7 +9,7 @@ namespace Adalio.Domain.Models
 {
     public class Account
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public required string UserName { get; set; }
         public required string Password { get; set; }
         public required string  Email { get; set; }

@@ -11,7 +11,7 @@ namespace Adalio.Domain.Models
     public class Order
     {
         //[primary]
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
         public DateTime CreatingDate { get; set; }
         public OrderStatus Status { get; set; }

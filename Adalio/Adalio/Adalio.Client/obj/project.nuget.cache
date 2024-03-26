@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xvMjD4LJc3bCAKj6O8vAqpytTqAFEBb5Ces7fr2LgDB34QGF3qOWuZloI1hLrgnUAoeBbNfZdXQCmGo16gDXzg==",
+  "dgSpecHash": "a9QcFseBHPgtHypgHtRnSnyYfJw3+B388xGXSRhhW6DDa4iPSA5pCcByhBOJP2MUt8agY/OY4esXXC7yvskJww==",
   "success": true,
-  "projectFilePath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
+  "projectFilePath": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yyarm\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.2\\microsoft.aspnetcore.authorization.8.0.2.nupkg.sha512",
     "C:\\Users\\yyarm\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.2\\microsoft.aspnetcore.components.8.0.2.nupkg.sha512",

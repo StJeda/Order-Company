@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPKH4htCG9afncEKvxU+23AIWjo+3L8Wgz9a105dX060bO0/xK7Z68so+DcusH8kuLCh5T8X+LAexh0xQdk3Cw==",
+  "dgSpecHash": "KxPpKFKqLBE/srO/RRJ/iT2kNMyk4eolJv/S4WSnGsrS8hkqg9cv0dJXLy4xVo1eprho34cy7NiUSon2OxQOvg==",
   "success": true,
-  "projectFilePath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
+  "projectFilePath": "D:\\Works\\OrderComp\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

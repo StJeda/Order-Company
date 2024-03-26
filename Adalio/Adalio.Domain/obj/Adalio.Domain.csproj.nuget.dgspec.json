@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj": {}
+    "D:\\Works\\OrderComp\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj": {
+    "D:\\Works\\OrderComp\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
+        "projectUniqueName": "D:\\Works\\OrderComp\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
         "projectName": "Adalio.Domain",
-        "projectPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
+        "projectPath": "D:\\Works\\OrderComp\\Adalio\\Adalio.Domain\\Adalio.Domain.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio.Domain\\obj\\",
+        "outputPath": "D:\\Works\\OrderComp\\Adalio\\Adalio.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",

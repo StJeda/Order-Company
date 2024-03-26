@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj": {}
+    "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj": {}
   },
   "projects": {
-    "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj": {
+    "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
+        "projectUniqueName": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
         "projectName": "Adalio.Client",
-        "projectPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
+        "projectPath": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio.Client\\Adalio.Client.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "D:\\Works\\OrderProject1\\Order-Company\\Adalio\\Adalio\\Adalio.Client\\obj\\",
+        "outputPath": "D:\\Works\\OrderComp\\Adalio\\Adalio\\Adalio.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",

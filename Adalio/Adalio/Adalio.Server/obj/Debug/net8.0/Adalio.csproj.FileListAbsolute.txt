@@ -1,7 +1,0 @@
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.csproj.AssemblyReference.cache
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.GeneratedMSBuildEditorConfig.editorconfig
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.AssemblyInfoInputs.cache
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.AssemblyInfo.cs
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.csproj.CoreCompileInputs.cache
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.MvcApplicationPartsAssemblyInfo.cache
-D:\Works\OrderProject1\Order-Company\Adalio\Adalio\Adalio\obj\Debug\net8.0\Adalio.sourcelink.json
